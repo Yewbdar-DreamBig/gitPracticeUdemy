@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lovely day!
+=======
+AMAZING GRACE!
+>>>>>>> a61bbe3427363d711de0136d7f77cffd85c0e9d8
